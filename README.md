@@ -19,7 +19,7 @@ A simple Python script to **download all games (PGN files)** from any Chess.com 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/chesscom-game-downloader.git
+git clone https://github.com/Ardelerro/download-chesscom-archive.git
 cd chesscom-game-downloader
 ```
 
